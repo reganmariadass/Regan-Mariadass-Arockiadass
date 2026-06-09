@@ -23,7 +23,8 @@
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class Regan Mariadass Arockiadass:
+
+class Regan-Mariadass-Arockiadass:
     def __init__(self):
         self.name     = "Regan Mariadass Arockiadass"
         self.location = "Wales, UK"
